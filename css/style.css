@@ -6,25 +6,25 @@ body {
   padding-top: 3rem;
   padding-bottom: 3rem;
   color: #5a5a5a;
-	font-family: "Times New Roman", Times, serif;
-	background: black;
+  font-family: "Times New Roman", Times, serif;
+  background: black;
 }
 
 .jumbotron{
-	background-color: rgba(0,0,0, 0.65);
-	bottom: 3rem;	 
+  background-color: rgba(0,0,0, 0.65);
+  bottom: 3rem;  
 }
 .form-control{
-	background-color: rgba(255,255,255, 0.12);
+  background-color: rgba(255,255,255, 0.12);
 
 }
 .jumbotron2{
-	background-color: rgba(255,255,255, 0.12);
-	bottom: 3rem;	 
-	text-align: center;
-	text-shadow: 1px 1px 0 gray;
-	border-radius: 10px; 
-	word-wrap: break-word;
+  background-color: rgba(255,255,255, 0.12);
+  bottom: 3rem;  
+  text-align: center;
+  text-shadow: 1px 1px 0 gray;
+  border-radius: 10px; 
+  word-wrap: break-word;
 }
 
 /* CUSTOMIZE THE CAROUSEL
@@ -32,12 +32,12 @@ body {
 
 /* Carousel base class */
 .main{
-	color: white;
-	text-shadow: 1px 1px 0 gray;	
+  color: white;
+  text-shadow: 1px 1px 0 gray;  
 }
 .heading{
-	text-shadow: 1px 1px 0 gray;
-	font-size: 25px;
+  text-shadow: 1px 1px 0 gray;
+  font-size: 25px;
 }
 .carousel {
   margin-bottom: 4rem;
@@ -76,7 +76,7 @@ body {
 }
 
 .modal-content{
-	background: black;
+  background: black;
 }
 
 /* sections
@@ -94,17 +94,17 @@ body {
   letter-spacing: -.05rem;
 }
 .section-image{
-	width: 500px;
+  width: 500px;
 }
 .mapouter{
-	position:relative;
-	text-align:right;
+  position:relative;
+  text-align:right;
 }
 .gmap_canvas {overflow:hidden;
-	background:none!important;
+  background:none!important;
 }
 .fonts{
-	font-family: 'Fredericka the Great', cursive;
+  text-align: center;
 }
 
 
